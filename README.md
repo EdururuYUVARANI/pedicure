@@ -22,8 +22,8 @@ _Interactive and responsive UI.
 - User can know about health information through this website. 
 - Included the feedback Survey form to increase the scope of improvement 
 
-##Screenshots
-###Home -
+##Screenshots -
+### Home -
 
 
 ### About -
