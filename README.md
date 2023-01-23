@@ -33,9 +33,9 @@ _Interactive and responsive UI.
 ### Pages -
 pages contains 2 things 
 
-# web icons-
+#### web icons-
 
-# short codes-
+#### short codes-
 
 ### Contact  - 
 
