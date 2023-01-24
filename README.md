@@ -1,4 +1,4 @@
-#✨ pedicure ✨
+# ✨ pedicure ✨
 
 This is a web based application developed for health,skin and pedicure related based website in india
 
